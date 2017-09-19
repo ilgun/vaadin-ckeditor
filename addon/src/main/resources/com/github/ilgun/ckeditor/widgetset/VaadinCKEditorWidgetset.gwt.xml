@@ -11,5 +11,3 @@
 
     <inherits name="com.vaadin.DefaultWidgetSet" />
 </module>
-
-<!--//TODO: one of them should go src in scr/main/widgetset.gwt.xml-->
